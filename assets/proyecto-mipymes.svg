@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 620" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="820" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C2742"/>
+      <stop offset="1" stop-color="#173E67"/>
+    </linearGradient>
+    <linearGradient id="card" x1="110" y1="150" x2="700" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff" stop-opacity="0.98"/>
+      <stop offset="1" stop-color="#EEF4FA"/>
+    </linearGradient>
+  </defs>
+  <rect width="820" height="620" rx="42" fill="url(#bg)"/>
+  <circle cx="715" cy="108" r="96" fill="#fff" fill-opacity="0.06"/>
+  <circle cx="112" cy="515" r="132" fill="#fff" fill-opacity="0.05"/>
+  <path d="M110 430c65-52 141-81 224-81 69 0 129 17 198 52 54 28 112 43 177 46" stroke="#7BC8FF" stroke-width="8" stroke-linecap="round"/>
+  <path d="m616 396 42 41 66-86" stroke="#36D69A" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="95" y="114" width="620" height="368" rx="28" fill="url(#card)"/>
+  <rect x="126" y="152" width="176" height="114" rx="18" fill="#DCEBFF"/>
+  <path d="M154 226h118v-36l-16-15h-31l-15 15h-56v36Z" fill="#4E86E5"/>
+  <rect x="145" y="230" width="136" height="10" rx="5" fill="#2E5CA9" opacity=".18"/>
+  <rect x="344" y="158" width="337" height="22" rx="11" fill="#D8E0E8"/>
+  <rect x="344" y="197" width="282" height="16" rx="8" fill="#E6ECF2"/>
+  <rect x="344" y="223" width="248" height="16" rx="8" fill="#E6ECF2"/>
+  <rect x="344" y="282" width="338" height="160" rx="20" fill="#F4F8FB"/>
+  <path d="M379 402V333" stroke="#2B4E77" stroke-width="10" stroke-linecap="round"/>
+  <path d="M447 402V306" stroke="#2B4E77" stroke-width="10" stroke-linecap="round"/>
+  <path d="M515 402V354" stroke="#2B4E77" stroke-width="10" stroke-linecap="round"/>
+  <path d="M583 402V288" stroke="#2B4E77" stroke-width="10" stroke-linecap="round"/>
+  <path d="M377 315c42-20 80-35 114-33 44 3 67 20 104 31 34 10 54 4 82-17" stroke="#44A5FF" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="583" cy="288" r="12" fill="#44A5FF"/>
+  <circle cx="447" cy="306" r="10" fill="#44A5FF"/>
+  <circle cx="379" cy="315" r="10" fill="#44A5FF"/>
+  <rect x="129" y="301" width="155" height="142" rx="20" fill="#F4F8FB"/>
+  <path d="M171 402c0-25 16-42 36-42s36 17 36 42" stroke="#1B5D8A" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="207" cy="336" r="18" fill="#A2C8FF"/>
+  <rect x="160" y="411" width="94" height="12" rx="6" fill="#D8E0E8"/>
+  <g opacity=".92">
+    <path d="M676 486c0 31-55 92-55 92s-55-61-55-92c0-30 25-55 55-55s55 25 55 55Z" fill="#36D69A"/>
+    <circle cx="621" cy="485" r="20" fill="#fff"/>
+  </g>
+  <text x="95" y="560" fill="#D8E8F8" font-size="28" font-family="Arial, sans-serif" letter-spacing="5">MIPYMES · GESTIÓN · DESARROLLO LOCAL</text>
+</svg>
